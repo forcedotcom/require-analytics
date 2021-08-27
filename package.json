@@ -3,7 +3,7 @@
   "version": "0.9.19",
   "description": "Simple CommonJS require analytics",
   "main": "lib/index.js",
-  "repository": "https://github.com/forcedotcom/sfdx-dev-packages",
+  "repository": "forcedotcom/require-analytics",
   "author": "Salesforce",
   "license": "BSD-3-Clause",
   "types": "lib/index.d.ts",
