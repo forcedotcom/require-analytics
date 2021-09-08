@@ -1,7 +1,8 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.9.21 (2021-09-08)
 
 ## [0.9.19](https://github.com/forcedotcom/sfdx-dev-packages/compare/@salesforce/require-analytics@0.9.18...@salesforce/require-analytics@0.9.19) (2021-07-09)
 
